@@ -1,0 +1,8 @@
+# Doctorsid's Bosses mod
+modLoader="neoforge"
+loaderVersion="1.21.1"
+modVersion="1.0.0"
+
+[[dependencies]]
+mods = ["minecraft"]
+version = "1.21.1"
